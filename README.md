@@ -18,7 +18,7 @@ Pitágoras (spanish for Pythagoras) is a very basic Paint application intending 
 Screenshot
 ----------
 
-![Alt desc](http://i45.tinypic.com/2mxhczr.png)
+![Alt desc](https://github.com/alfonsocora/files/raw/master/images/pitagoras.png)
 
 License
 -------
