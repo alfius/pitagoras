@@ -15,6 +15,11 @@ Pitágoras (spanish for Pythagoras) is a very basic Paint application intending 
 * Fill
 * Choose line and fill color
 
+Donwload
+--------
+
+- [Version 1.0 (85.0 kB)](https://github.com/alfonsocora/pitagoras/raw/master/Pitagoras.exe)
+
 Screenshot
 ----------
 
